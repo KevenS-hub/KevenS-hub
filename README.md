@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevenS-hub
 - 👀 I’m interested in being a software engineer.
 - 🌱 I’m currently learning Python data science.
-- 💞️ I’m looking to collaborate on solo.
+- 💞️ I’m looking to collaborate on group.
 - 📫 How to reach me 
 - 😄 Pronouns: any
 - ⚡ Fun fact: I'm a begginer?...
